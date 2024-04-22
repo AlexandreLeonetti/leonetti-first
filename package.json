@@ -1,0 +1,21 @@
+{
+  "name": "leonetti-first",
+  "version": "0.0.1",
+  "description": "first package here",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+
+      "build":"tsup"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "alex leonetti",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}

@@ -1,0 +1,1 @@
+# some npm library test
